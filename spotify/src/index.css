@@ -1,0 +1,11 @@
+ *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+ :root{
+    --green : #49f585;
+    --black : black;
+    --white : white;
+   
+ }
